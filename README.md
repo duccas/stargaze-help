@@ -20,4 +20,6 @@
 - starsd tx stake stake [vendor-id] [post-id] [amount] [validator-address] --from [key] [flags]
 (starsd tx stake stake 1 "666" 2000000 starsvaloper12xlxetf292m9llh5y9gwv92wkqwwagxulwl5l0 --gas auto --fees 50000ustarx --from=ducca --chain-id="bellatrix-1")
 
+https://github.com/public-awesome/testnets/pull/416/commits/0487d3569ab9fcb541f614120b67387a8ed2a531
+
 # DONE
