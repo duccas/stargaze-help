@@ -9,8 +9,15 @@
 - Curation: upvote another validator's post
 - Stake: stake on any post
 
+### LIST OF POSTS
+
+```starsd q curating posts 1 -oj | jq```
+```starsd q curating posts 0 -oj | jq```
+
+Thanks Danila Ushakov :)
+
 ### COMMANDS
-```starsd tx curating post [vendor-id] [post-id] [body] [reward_address] --from [key] [flags]```
+```starsd tx curating post [vendor-id] [post-id] [body] [reward_address] --from [key] [flags]
 
 starsd tx curating post 1 "6475820" "from Ducca-StakeTab.com" stars18e9esk87ep9nnd8mc3m76q4lk5d6q7pnu4kxym --gas auto --fees 50000ustarx --from=KEY_NAME --chain-id="bellatrix-1"
 
