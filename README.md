@@ -1,7 +1,8 @@
 # BELLATRIX-1
 ## PHASE 2 CHALLENGE 1
 
-### CHALLENGE
+### CHALLENGE (https://www.notion.so/Phase-2-Challenge-1-2a6e9ae703fb49dbb4a2a4afb3e085d8)
+
 - Curation: submit a post transaction with a content body
 - Curation: upvote the above post
 - Curation: upvote another validator's post
